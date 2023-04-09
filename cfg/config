@@ -1,0 +1,5 @@
+Host turing
+Hostname turing.mee.tcd.ie
+Port 9000
+StrictHostKeyChecking no
+IdentityFile /root/.ssh/custom_key
